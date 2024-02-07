@@ -1,0 +1,11 @@
+title: Keerthana.K
+logo: assets/img/C2E17675-ABEF-4272-A200-A75040FE58EA_1_105_c.jpeg
+theme: jekyll-theme-minimal
+
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Experience
+    url: /experience
