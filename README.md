@@ -21,10 +21,10 @@ Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating 
 
 ### Technical Skills:
 
-**Programming Languages:** Java, JavaScript
-**Web Technologies and Frameworks:** Spring Boot, Spring MVC, REST API, JPA, Hibernate, MySQL, JUnit, React, HTML,CSS
-**Testing Frameworks and Libraries:** Selenium WebDriver, Locaters, TestNG
-**Others:** AWS, Git, Maven, Docker, Jenkins, Tomcat
+- **Programming Languages:** Java, JavaScript
+- **Web Technologies and Frameworks:** Spring Boot, Spring MVC, REST API, JPA, Hibernate, MySQL, JUnit, React, HTML,CSS
+- **Testing Frameworks and Libraries:** Selenium WebDriver, Locaters, TestNG
+- **Others:** AWS, Git, Maven, Docker, Jenkins, Tomcat
 
 
 
