@@ -8,10 +8,10 @@ Back then coming to past experience as an Java Club member in my school and expe
 
 Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating life at ungodly hours. I like to think of myself as a blend of tech-savvy and a lover of life's little quirks. 
 
-I'm **actively seeking full time roles as Developer, Java Developer, Software Engineer, Selenium Tester,**.View my [Projects](projects.md#projects) and [Work Experience](Experience.md#experience) here. 
+I'm **actively seeking full time roles as Developer, Java Developer, Software Engineer, Selenium Tester,**.View my [Projects](Projects.md#projects) and [Work Experience](Experience.md#experience) here. 
 
 ## Know more:
-[Resume](https://) | [Experience](Experience.md#experience) | [Projects](projects.md#projects)
+[Resume](https://) | [Experience](Experience.md#experience) | [Projects](Projects.md#projects)
 
 ## Education:
 ### Master of Science (M.S.) in Computer Science
