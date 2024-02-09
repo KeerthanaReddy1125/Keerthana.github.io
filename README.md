@@ -6,7 +6,8 @@ I recently concluded my role as an **Java Developer** where I got to dive into C
 
 Back then coming to past experience as Java Developer in**MagTech Corp** and  a Java Club member in my school and experience has an Analyst 2 in **Newmark**  has evloved me in increasing my ability to Set my Career in Java Developement and Curiosity in Tesing.
 
-With a strong passion for development and testing, I've pursued certifications to enhance my knowledge and skills in these areas. View my[Certifications](Certification)
+With a strong passion for development and testing, I've pursued certifications to enhance my knowledge and skills in these areas. 
+-View my[Certifications](Certification)
 
 Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating life at ungodly hours. I like to think of myself as a blend of tech-savvy and a lover of life's little quirks. 
 
