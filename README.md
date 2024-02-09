@@ -4,7 +4,9 @@ I'm **Keerthana K**, and I find myself diving deep into the fascinating realms o
 
 I recently concluded my role as an **Java Developer** where I got to dive into Core Java , Java MVC and Restful API's, while also gaining some of the experience in SQL server Databases.
 
-Back then coming to past experience as an Java Club member in my school and experience has an Analyst 2 in **Newmark**  has evloved me in increasing my ability to Set my Career in Java Developement and Curiosity in Tesing.
+Back then coming to past experience as Java Developer in**MagTech Corp** and  a Java Club member in my school and experience has an Analyst 2 in **Newmark**  has evloved me in increasing my ability to Set my Career in Java Developement and Curiosity in Tesing.
+
+With a strong passion for development and testing, I've pursued certifications to enhance my knowledge and skills in these areas. View my[Certifications](Certification)
 
 Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating life at ungodly hours. I like to think of myself as a blend of tech-savvy and a lover of life's little quirks. 
 
