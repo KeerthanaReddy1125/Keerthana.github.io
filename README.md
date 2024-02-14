@@ -1,3 +1,5 @@
+[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
+
 ## Hello There!
 
 I'm **Keerthana K**, and I find myself diving deep into the fascinating realms of **Java** and  **Selenium Java** as a graduate student at **University of Bridgeport, Connecticut**. My journey began with a Bachelor's degree in **Information Technology** Hyderabad, and it's been quite a ride since then. 
