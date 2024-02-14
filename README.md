@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Projects](projects.md#projects) |[Certification](https://drive.google.com/file/d/1TVT5DEN-3PEHM0S3p9PK97jHNOodwwV6/view?usp=drive_link) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
 
 ## Hello There!
 
@@ -39,4 +39,4 @@ I'm **actively seeking full time roles as Developer, Java Developer, Software En
 
 
 ## Contact:
-[Email](mailto:keerthanak1125@gmail.com)| [School](mailto:kkudu@my.bridgeport.edu)| [LinkedIn](https://www.linkedin.com/in/keerthana-reddy-FT25) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Email](mailto:keerthanak1125@gmail.com)| [School](mailto:kkudu@my.bridgeport.edu)| [LinkedIn](https://www.linkedin.com/in/keerthana-reddy-FT25) [Certification](https://drive.google.com/file/d/1TVT5DEN-3PEHM0S3p9PK97jHNOodwwV6/view?usp=drive_link) | [GitHub](https://github.com/KeerthanaReddy1125)
