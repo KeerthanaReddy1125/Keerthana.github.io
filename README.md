@@ -14,7 +14,7 @@ Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating 
 I'm **actively seeking full time roles as Developer, Java Developer, Software Engineer, Selenium Tester,**.View my [Projects](Projects.md#projects) and [Work Experience](Experience.md#experience) here. 
 
 ## Know more:
-[Resume](https://) | [Experience](Experience.md#experience) | [Projects](Projects.md#projects)
+[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Experience](Experience.md#experience) | [Projects](Projects.md#projects)
 
 ## Education:
 ### Master of Science (M.S.) in Computer Science
