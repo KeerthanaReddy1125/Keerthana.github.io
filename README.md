@@ -31,10 +31,11 @@ I'm **actively seeking full time roles as Developer, Java Developer, Software En
 
 ### Technical Skills:
 
-- **Programming Languages:** Java, JavaScript
-- **Web Technologies and Frameworks:** Spring Boot, Spring MVC, REST API, JPA, Hibernate, MySQL, JUnit, React, HTML,CSS
-- **Testing Frameworks and Libraries:** Selenium WebDriver, Locaters, TestNG
-- **Others:** AWS, Git, Maven, Docker, Jenkins, Tomcat
+- **Programming Languages:** Java, JavaScript, Python
+- **Web Technologies and Frameworks:** Spring Boot, Spring MVC, REST API, JPA, Hibernate. JSON
+- **Front-end Technologies:** HTML, CSS, React, Angular
+- **Testing Frameworks and Libraries:** Selenium WebDriver, CSS Selectors, XPath Locators, TestNG, Cucumber, POM, Postman, Swagger.
+- **Others:** AWS, Azure, CI/CD, MYSQL, Git, Maven, Docker, Jenkins, Tomcat, IntelliJ, Visual Studio, VSCode
 
 
 
