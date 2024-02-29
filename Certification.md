@@ -8,7 +8,7 @@
 *Febuary-2024 | USA*
 - **Learning Tech Stack**:*Live projects on Selenium, Maven,TestNG, ANT, PageObject, Maven, Jenkins, Excel , Datadriven, Cucumber, log4j ,Client html reports.*
   
-**•	Certified Web Designer (By 3DI School of arts and Design)**  
+**Certified Web Designer (By 3DI School of arts and Design)**  
 *August-2019 | USA*
 - **Learning Tech Stack**:*HTML Project, CSS, Bootstrap.*
   
