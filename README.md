@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Projects](projects.md#projects) | [Certifications](Certification.md#Certification) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Resume](https://drive.google.com/file/d/1L7mR7kDmLZQRJGbQID0G2s0GQ2_nFXsD/view?usp=drive_link) | [Projects](projects.md#projects) | [Certifications](Certification.md#Certification) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
 
 ## Hello There!
 
@@ -16,7 +16,7 @@ Beyond the tech world, I love memes, dogs, mountains, sunsets and contemplating 
 I'm **actively seeking full time roles as Developer, Java Developer, Software Engineer, Selenium Tester, QA Analyst ,Software Engineer in Test**.View my [Projects](Projects.md#projects) and [Work Experience](Experience.md#experience) here. 
 
 ## Know more:
-[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Experience](Experience.md#experience) | [Projects](Projects.md#projects) | [Leadership Experience](Leadershipexp.md#Leadershipexp)
+[Resume](https://drive.google.com/file/d/1L7mR7kDmLZQRJGbQID0G2s0GQ2_nFXsD/view?usp=drive_link) | [Experience](Experience.md#experience) | [Projects](Projects.md#projects) | [Leadership Experience](Leadershipexp.md#Leadershipexp)
 
 ## Education:
 ### Master of Science (M.S.) in Computer Science
@@ -39,4 +39,4 @@ I'm **actively seeking full time roles as Developer, Java Developer, Software En
 
 
 ## Contact:
-[Email](mailto:keerthanak1125@gmail.com)| [School](mailto:kkudu@my.bridgeport.edu)| [LinkedIn](https://www.linkedin.com/in/keerthana-reddy-FT25) | [Certification](https://drive.google.com/file/d/1TVT5DEN-3PEHM0S3p9PK97jHNOodwwV6/view?usp=drive_link) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Email](mailto:keerthanak1125@gmail.com)| [School](mailto:kkudu@my.bridgeport.edu)| [LinkedIn](https://www.linkedin.com/in/keerthana-reddy-FT25) | [Certification](Certification.md#Certification) | [GitHub](https://github.com/KeerthanaReddy1125)
