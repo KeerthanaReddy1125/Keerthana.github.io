@@ -1,4 +1,4 @@
-[Resume](https://drive.google.com/file/d/1L7mR7kDmLZQRJGbQID0G2s0GQ2_nFXsD/view?usp=drive_link) | [Projects](projects.md#projects) | [Certifications](Certification.md#Certification) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Resume](https://drive.google.com/file/d/1L7mR7kDmLZQRJGbQID0G2s0GQ2_nFXsD/view?usp=drive_link) | [Projects](Projects.md#projects) | [Certifications](Certification.md#Certification) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
 
 ## Hello There!
 
