@@ -1,4 +1,4 @@
-
+[Resume](https://drive.google.com/file/d/1d7zkppBFKRP4DYikfgw2SlSI4VyrS_6a/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
  
 **AWS Certified Solutions Architect Associate Certification SAA-C03 2**  
 *In Progress | USA*
@@ -14,6 +14,6 @@
 -*August-2019 | USA*
 - **Learning Tech Stack**:*HTML Project, CSS, Bootstrap.*
   
+[Resume](https://drive.google.com/file/d/1d7zkppBFKRP4DYikfgw2SlSI4VyrS_6a/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
 
 
-[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
