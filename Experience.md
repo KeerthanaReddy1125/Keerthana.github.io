@@ -1,32 +1,40 @@
-[Resume](https://drive.google.com/file/d/1L7mR7kDmLZQRJGbQID0G2s0GQ2_nFXsD/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Resume](https://docs.google.com/document/d/1B08FaDKsW7_bMqF2xs1xwX_twvAydccB/edit?usp=drive_link&ouid=106239973580370921309&rtpof=true&sd=true) | [Projects](projects.md#projects) | [Email](mailto:keerthanakusu258@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
 
 # Experience
 
-## [MagTech Corp](https://www.magtechcorp.com/) 
-**Java Developer  (E-Commerce Application)**  
-*Jan 2023 - Nov 2023 | Bound Brook, NJ*
-- *Tech Stack: Java, Restfull API's,Spring Boot ,Spring MVC ,HTML ,CSS ,MYSQL.*
+## [Dell Technologies]
+**QA Automation Engineer**  
+*Jul 2023 - Present*
+- **Tech Stack: Java, Restfull API's,Spring Boot ,Selenium,Postman,Spring MVC ,HTML ,CSS ,MYSQL.**
   
-- **Methodologies:** Worked in Agile software development team and sprint planning sessions and identify the area improvements.
-- **Coding and Development:** Involved in building code primarily in  **Java**, to generate new features, address challenges, and improve existing functionality of the e-commerce platform. And involving in Back-end Services  **(API’s), Controllers and Models** and putting business logic into practice with the team and senior developers and integrating the Database.
-- **Collabrations:** Worked with the front-end developers to integrate Java-based RESTful APIs with modern JavaScript frameworks like Angular, facilitating easy user interactions and real-time updates in the web application and developed **RESTful** endpoints using Java 
-and Spring framework to enable **CRUD (Create, Read, Update, Delete)** operations.
+-	*Collaborated with multidisciplinary groups, gathers specifications for automation, creates automated tests, fixes issues, and implements expandable test automation solutions.*
+- *Maintained software defect documentation, use the defect tracking technology (JIRA, Version 1), and make sure that open bugs are track and escalated as necessary based on their age and priority.* 
+-	*All agile team rituals, ensuring timely completion of tasks while maintaining the highest quality standards.*
+-	*Evaluate automation scripts' code and offer advice on how to ensure that they adhere to best practices for automation.*
+-	*Engage in active communication with quality engineers from many disciplines (Android, iOS, Web, APIs.) other than of the local sprint team.* 
+-	*Examine configuration files, logs, or segments of code to identify breakdowns before beginning early debugging techniques.*
+
 
 
 ## [Newmark](https://www.nmrk.com/)
-**Analyst 2**  
-*sep 2020 - Dec 2021 | Hyderabad, India*
-- *Tech Stack: Java, Restfull API's,Spring Boot ,Spring MVC ,HTML ,CSS ,MYSQL ,Angular,Hibernate,Spring Frameworks, Postman,Selenium WebDriver,Git,TestNG,Cucumber*
+**QA Automation Engineer**  
+*sep 2020 - Nov 2021*
+- **Tech Stack: Java, Restfull API's,Spring Boot ,Spring MVC ,HTML ,CSS ,MYSQL ,Angular,Hibernate,Spring Frameworks, Postman,Selenium WebDriver,Git,TestNG,Cucumber**
 
-- **Implementations:** Developed backend services using Java technologies with **Spring Boot** and **Hibernate** and ensured smooth data handling and processing for property listings, transactions, and analytics functionalities
-- **Workflows and Requirements:** Adding knowledge in understanding the requirements of the stakeholders and working up with the team to translate them into technical specs and coordinated with the senior developers to implement designs.
-- **Testing and Interactions:** Used Selenium WebDriver automation scripts using **HTML CSS Selector, XPath locators, TestNG, Cucumber, POM Frameworks** & interacted through **Git** version control system and tracked changes and collaborated with the team.
+-	*Closely monitor industry trends and progress in the automation tool space, develop proof of concepts as need to validate the potential impact to our test delivery process.*
+-	*Collaborate across several disciplines (APIs, Web, etc.) with quality engineers.*
+-	*Demonstrated skills using code repositories like GitHub. Gain experience using CI/CD with Hudson/Jenkins in parallel tools. 
+-	*Analysed test results and create summary reports to be present to the development team, as project leaders.*
+-	*Interacted with developers providing feedback on product test results. Answer developer questions relating to defects found.*
+-	*Added expertise in comprehending stakeholder needs, collaborating with the team to convert into technical specifications, and coordinating with senior developers to put designs into practice.*
+-	*Made the Git version control system to communicate with the team, track changes, and use Selenium WebDriver automation scripts with HTML CSS Selector, XPath locators, TestNG, Cucumber, and POM Frameworks.*
+
   
 
 **Java Intern((Synycs enterprise pvt Ltd)**  
 *Jun 2019 - Aug 2019 | Bengaluru, India*
-- *Tech Stack: API's, MQSQL,Javascript,Spring Framework,HTML,CSS*
+- **Tech Stack: API's, MQSQL,Javascript,Spring Framework,HTML,CSS**
   
-- **◦	Responsibilities:** Built services to provide capabilities to generate reports & metrics and created a search engine to find the right employee profile match for an opportunity. Developed front-end services using HTML, CSS, JavaScript, and executed back-end mechanism using Java, Spring framework, and MySQL database.
+- **◦	Responsibilities:** *Built services to provide capabilities to generate reports & metrics and created a search engine to find the right employee profile match for an opportunity. Developed front-end services using HTML, CSS, JavaScript, and executed back-end mechanism using Java, Spring framework, and MySQL database.*
 
-[Resume](https://drive.google.com/file/d/1kyTj126V9o5nryPDzYleW1GfuWPNOLZU/view?usp=drive_link) | [Projects](projects.md#projects) | [Email](mailto:keerthanak1125@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
+[Resume](https://docs.google.com/document/d/1B08FaDKsW7_bMqF2xs1xwX_twvAydccB/edit?usp=drive_link&ouid=106239973580370921309&rtpof=true&sd=true) | [Projects](projects.md#projects) | [Email](mailto:keerthanakudu258@gmail.com) | [LinkedIn](http://linkedin.com/in/keerthana-reddy-ft25) | [GitHub](https://github.com/KeerthanaReddy1125)
